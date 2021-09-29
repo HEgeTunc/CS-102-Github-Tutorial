@@ -1,2 +1,15 @@
 Hasan Ege Tunç - 22003814 - https://github.com/HEgeTunc
 I do not have any favorite video game
+
+commit 590538e92c947ac9e8acd5d00fd326476203667d (HEAD -> main, origin/main, origin/HEAD)
+Author: Hasan Ege <hasan.tunc@ug.bilkent.edu.tr>
+Date:   Wed Sep 29 18:25:48 2021 +0300
+
+    Inserted Link has been changed
+
+commit 8e8eeab16691c4fc1643deed69cf7ba48df92ce1
+Merge: ea96e8c acc1d68
+Author: HEgeTunc <91608935+HEgeTunc@users.noreply.github.com>
+Date:   Wed Sep 29 18:14:08 2021 +0300
+
+    Merging
